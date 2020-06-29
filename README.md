@@ -1,2 +1,3 @@
-# RubberDuckies
-A Website Designed to Help the Community Adopt Abandoned Rubber Duckies
+# Vote for Your Favorite Pizza Hut Pizza!
+
+[Link to HTML Page](index.html)
